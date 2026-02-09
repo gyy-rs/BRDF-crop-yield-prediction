@@ -10,7 +10,7 @@ The module implements:
 3. Vectorized BRDF correction for efficient processing
 
 Author: Research Team
-Date: 2024
+Date: 2026
 License: MIT
 """
 
