@@ -393,11 +393,12 @@ Contributions are welcome! Please:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{yourpaper2024,
-  title={Crop Yield Prediction Using LSTM with Multi-Head Attention},
-  author={Your Name et al.},
-  journal={Journal Name},
-  year={2024}
+@article{gao2025normalized,
+  title={Normalized solar-induced fluorescence responds earlier than vegetation indices to the 2019 North China Plain drought},
+  author={Gao, Yongyuan and Zeng, Yelu and Voropay, Nadezhda N and Gobin, Anne and Huang, Jianxi and Su, Wei and Li, Xuecao and Miao, Shuangxi and Liu, Zhe and Gao, Bingbo and others},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
@@ -437,8 +438,7 @@ For questions and issues:
 ## 🔗 Links
 
 - 📖 [Documentation](https://github.com/gyy-rs/BRDF-crop-yield-prediction/wiki)
-- 📰 [Paper](https://doi.org/xxxxx)
-- 🌐 [Project Website](https://example.com)
+- 📰 [Paper](Under Review)
 
 ---
 
